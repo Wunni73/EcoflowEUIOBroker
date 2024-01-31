@@ -1,7 +1,7 @@
 {
   "common": {
     "name": "zendure-solarflow",
-    "version": "1.0.7",
+    "version": "1.0.71",
     "news": {
       "1.0.7": {
         "en": "Add control for charge and discharge limit\nUpdate Readme Screenshot",
