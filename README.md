@@ -2,14 +2,6 @@
 
 # ioBroker.zendure-solarflow
 
-[![NPM version](https://img.shields.io/npm/v/iobroker.zendure-solarflow.svg)](https://www.npmjs.com/package/iobroker.zendure-solarflow)
-[![Downloads](https://img.shields.io/npm/dm/iobroker.zendure-solarflow.svg)](https://www.npmjs.com/package/iobroker.zendure-solarflow)
-![Number of Installations](https://iobroker.live/badges/zendure-solarflow-installed.svg)
-![Current version in stable repository](https://iobroker.live/badges/zendure-solarflow-stable.svg)
-
-[![NPM](https://nodei.co/npm/iobroker.zendure-solarflow.png?downloads=true)](https://nodei.co/npm/iobroker.zendure-solarflow/)
-
-**Tests:** ![Test and Release](https://github.com/nograx/ioBroker.zendure-solarflow/workflows/Test%20and%20Release/badge.svg)
 
 ## Zendure Solarflow adapter for ioBroker
 
